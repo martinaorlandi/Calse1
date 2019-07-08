@@ -1,0 +1,18 @@
+p, h1, h3 {
+  color: blue;
+}
+
+
+body {
+  background-image: url("image2.jpg");
+  background-repeat: no-repeat;
+}
+div {
+  opacity: 0.5;
+}
+
+#d1 {
+  font-size: 15px
+  font-family: cursive;
+  font-style: italic;
+}
